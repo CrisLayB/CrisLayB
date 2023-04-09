@@ -29,10 +29,9 @@
 ## Other
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 </p>
-
 <br></br>
-<h1 align="center">Hello everyone 👋, I'm Cristian Laynez</h1>
-<h3 align="center">A passionate programmer from Guatemala. And a future game designer and game developer.</h3>
+<h1 align="center">More About Me</h1>
+<h3 align="center">I'm 21 years old, since child i love to play videogames, i love music, i love competitive programming and of course i love learning new things. Curious fact: I learn Linux Mint and Linux Fedora for necessity.</h3>
 <br></br>
 
 <h1 align="center">GitHub Stats</h1>
